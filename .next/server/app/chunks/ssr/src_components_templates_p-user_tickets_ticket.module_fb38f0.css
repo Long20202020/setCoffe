@@ -1,0 +1,43 @@
+/* [project]/src/components/templates/p-user/tickets/ticket.module.css (css, css module, ssr) */
+.ticket__ticket__c10b7fd {
+  width: 100%;
+  border-right: 3px solid #711d1c;
+  padding: 1rem;
+  background-color: #711d1c21;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+  margin: 1rem auto;
+  height: 110px;
+  align-items: center;
+}
+.department__ticket__c10b7fd {
+  padding: 0.5rem;
+  width: max-content;
+  border-radius: 5px;
+  background: white;
+}
+.ticket__ticket__c10b7fd div {
+  text-align: center;
+}
+.no_answer__ticket__c10b7fd {
+  background-color: #711d1c;
+  color: white;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+.answer__ticket__c10b7fd {
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+.ticket__ticket__c10b7fd div {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.ticket__ticket__c10b7fd div:nth-child(2) {
+  padding-top: 0.5rem;
+}

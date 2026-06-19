@@ -1,0 +1,24 @@
+/* chunk [output]/.next/server/app/chunks/rsc/src_styles_rules.module_b5a149.css */
+/* [project]/src/styles/rules.module.css (css, css module, rsc) */
+.container__rules__35146d0f {
+  color: black;
+  text-align: right;
+  max-width: 1222px;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-bottom: 4rem;
+  direction: rtl;
+  margin-left: auto;
+}
+.container__rules__35146d0f p, 
+.container__rules__35146d0f span {
+  margin-bottom: 20px;
+  text-align: justify;
+  color: rgb(105, 102, 102);
+}
+.container__rules__35146d0f p:nth-child(2) {
+  margin-bottom: 0px;
+}
+

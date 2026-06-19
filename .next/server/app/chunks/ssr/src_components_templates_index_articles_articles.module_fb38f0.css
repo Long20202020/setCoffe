@@ -1,0 +1,16 @@
+/* [project]/src/components/templates/index/articles/articles.module.css (css, css module, ssr) */
+.title__articles__191c2e16 {
+  color: #114639;
+  font-size: 36px;
+}
+.description__articles__191c2e16 {
+  color: gray;
+}
+.container__articles__191c2e16 {
+  max-width: 1222px;
+  margin: 0 auto;
+  direction: rtl;
+}
+.container__articles__191c2e16 main {
+  margin: 40px 0 90px;
+}

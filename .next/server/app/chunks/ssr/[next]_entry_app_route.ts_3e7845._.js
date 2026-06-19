@@ -1,0 +1,18 @@
+Error.stackTraceLimit = 100;
+global.self = global;
+require("./node_modules_6f529e._.js");
+require("./src_utils_auth_d66c90.js");
+require("./src_utils_constants_2b9f13.js");
+require("./src_app_api_auth_signup_route_64afdc.js");
+require("./src_app_api_auth_signup_route.js_bootstrap-config.ts_b989b6._.js");
+require("./.env_b53fce.js");
+require("./configs_db_c9e4cb.js");
+require("./models_User_2ec885.js");
+require("./[turbopack-node]_ipc_index.ts_809d6e._.js");
+require("./[turbopack-node]_compiled_stacktrace-parser_index_e21349.js");
+require("./[next]_internal_api-server-handler.ts_9a0f76._.js");
+require("./[next]_internal_next-request-helpers.ts_bdd3f9._.js");
+require("./[next]_polyfill_app-polyfills.ts_a1c79b._.js");
+require("./[next]_entry_app_route.ts_756fc0._.js");
+require("./[next]_entry_app_route.ts_dc1b76._.js");
+require("./[next]_entry_app_route.ts_160c37._.js");

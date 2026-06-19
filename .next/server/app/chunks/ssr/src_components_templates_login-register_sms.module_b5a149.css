@@ -1,0 +1,68 @@
+/* chunk [output]/.next/server/app/chunks/ssr/src_components_templates_login-register_sms.module_b5a149.css */
+/* [project]/src/components/templates/login-register/sms.module.css (css, css module, ssr) */
+.btn__sms__e11dc9e3 {
+  padding: 0.8rem;
+  cursor: pointer;
+  font-family: shabnam;
+  background-color: rgb(52, 24, 14);
+}
+.form__sms__e11dc9e3 {
+  display: grid;
+  background-color: white;
+  padding: 50px 95px;
+  width: 380px;
+  font-family: shabnam;
+  margin: 7rem auto 2rem;
+  border-radius: 4px;
+  box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+  text-align: center;
+  color: black;
+}
+.input__sms__e11dc9e3 {
+  font-family: shabnam;
+  padding: 13px;
+  background-color: white;
+  color: black;
+  border-radius: 3px;
+  border: 1px solid black;
+  direction: ltr;
+  margin-top: 20px;
+}
+.back_to_login__sms__e11dc9e3 {
+  font-size: 13px;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+.code_title__sms__e11dc9e3 {
+  font-size: 13px;
+  margin-top: 18px;
+  color: #6d6d6d;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+.number__sms__e11dc9e3 {
+  font-size: 13px;
+  margin-top: 7px;
+  color: #6d6d6d;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+.send_again_code__sms__e11dc9e3 {
+  font-size: 13px;
+  margin-top: 7px;
+  opacity: 0.6;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.redirect_to_home__sms__e11dc9e3 {
+  display: block;
+  width: max-content;
+  margin: 0 auto;
+  cursor: pointer;
+  font-family: shabnam;
+  font-size: 13px;
+  color: rgb(52, 24, 14);
+}
+

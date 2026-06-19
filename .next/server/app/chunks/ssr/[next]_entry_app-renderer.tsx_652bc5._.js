@@ -1,0 +1,42 @@
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push([
+    "chunks/ssr/[next]_entry_app-renderer.tsx_652bc5._.js",
+    {},
+]);
+(globalThis.TURBOPACK_CHUNK_LISTS = globalThis.TURBOPACK_CHUNK_LISTS || []).push({
+  "path": "chunks/ssr/[next]_entry_app-renderer.tsx_652bc5._.js",
+  "chunks": [
+    "chunks/ssr/node_modules_88bdda._.js",
+    "chunks/ssr/src_utils_helpers_3d89f9.js",
+    "chunks/ssr/src_utils_aos_63850b.js",
+    "chunks/ssr/src_utils_SctollToTop_72b805.js",
+    "chunks/ssr/src_styles_ScrollToTop.module.css_450672._.js",
+    "chunks/ssr/src_styles_p-user_dataTable.module.css_291f4c._.js",
+    "chunks/ssr/src_components_modules_p-user_Sidebar_d8dce4.js",
+    "chunks/ssr/src_components_modules_p-user_Topbar_fcd15a.js",
+    "chunks/ssr/src_components_templates_p-user_comments_DataTable_9957af.js",
+    "chunks/ssr/.env_b53fce.js",
+    "chunks/ssr/[turbopack-node]_ipc_index.ts_67888c._.js",
+    "chunks/ssr/[turbopack-node]_compiled_stacktrace-parser_index_3ceaa3.js",
+    "chunks/ssr/[next]_polyfill_app-polyfills.ts_4b885f._.js",
+    "chunks/ssr/[next]_internal_headers.ts_2a93b1._.js",
+    "chunks/ssr/[next]_internal_http.ts_3bee35._.js",
+    "chunks/ssr/[next]_entry_app-renderer.tsx_caac76._.js",
+    "chunks/ssr/[next]__bad884._.js",
+    "chunks/ssr/node_modules_d47ce9._.js",
+    "chunks/ssr/src_9f2d20._.js",
+    "chunks/ssr/models_User_50f405.js",
+    "chunks/ssr/models_Comment_dfc045.js",
+    "chunks/ssr/configs_db_116103.js",
+    "chunks/ssr/src_styles_p-user_dataTable.module_b5a149.css",
+    "chunks/rsc/src_components_layouts_userPanelLayout.module_b5a149.css",
+    "chunks/ssr/src_components_modules_p-user_sidebar.module_b5a149.css",
+    "chunks/ssr/src_components_modules_p-user_topbar.module_b5a149.css",
+    "chunks/ssr/src_components_modules_p-user_modal.module_b5a149.css",
+    "chunks/rsc/[next]_internal_font_google_inter_92243eee.module_b5a149.css",
+    "chunks/rsc/src_app_globals.css",
+    "chunks/ssr/node_modules_aos_dist_aos.css",
+    "chunks/ssr/src_styles_ScrollToTop.module_b5a149.css",
+    "chunks/rsc/src_styles_404.module_b5a149.css"
+  ],
+  "source": "entry"
+});

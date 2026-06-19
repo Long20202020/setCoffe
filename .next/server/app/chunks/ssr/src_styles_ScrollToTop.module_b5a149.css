@@ -1,0 +1,25 @@
+/* chunk [output]/.next/server/app/chunks/ssr/src_styles_ScrollToTop.module_b5a149.css */
+/* [project]/src/styles/ScrollToTop.module.css (css, css module, ssr) */
+.button__ScrollToTop__4b42036a, 
+.buttonVisible__ScrollToTop__4b42036a {
+  position: fixed;
+  bottom: 2rem;
+  left: 1rem;
+  border-radius: 100%;
+  background: white;
+  border: 0;
+  color: black;
+  cursor: pointer;
+  font-size: 2rem;
+  outline: 0;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.17);
+  opacity: 0;
+  padding: 0.7rem 0.8rem 0rem;
+  transition-duration: 200ms;
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+.buttonVisible__ScrollToTop__4b42036a {
+  opacity: 1 !important;
+}
+

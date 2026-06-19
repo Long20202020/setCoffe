@@ -1,0 +1,40 @@
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push([
+    "chunks/ssr/[next]_entry_app-renderer.tsx_69b3f3._.js",
+    {},
+]);
+(globalThis.TURBOPACK_CHUNK_LISTS = globalThis.TURBOPACK_CHUNK_LISTS || []).push({
+  "path": "chunks/ssr/[next]_entry_app-renderer.tsx_69b3f3._.js",
+  "chunks": [
+    "chunks/ssr/node_modules_684f71._.js",
+    "chunks/ssr/src_utils_aos_63850b.js",
+    "chunks/ssr/src_utils_SctollToTop_72b805.js",
+    "chunks/ssr/src_styles_ScrollToTop.module.css_450672._.js",
+    "chunks/ssr/src_styles_p-user_accountDetails.module.css_d34c59._.js",
+    "chunks/ssr/src_components_modules_p-user_Sidebar_d8dce4.js",
+    "chunks/ssr/src_components_modules_p-user_Topbar_fcd15a.js",
+    "chunks/ssr/src_components_templates_details_AccountDetails_b7e209.js",
+    "chunks/ssr/.env_b53fce.js",
+    "chunks/ssr/[turbopack-node]_ipc_index.ts_b639a5._.js",
+    "chunks/ssr/[turbopack-node]_compiled_stacktrace-parser_index_5c8a47.js",
+    "chunks/ssr/[next]_polyfill_app-polyfills.ts_edd831._.js",
+    "chunks/ssr/[next]_internal_headers.ts_f8e8bc._.js",
+    "chunks/ssr/[next]_internal_http.ts_d3be9b._.js",
+    "chunks/ssr/[next]_entry_app-renderer.tsx_903348._.js",
+    "chunks/ssr/[next]__f94796._.js",
+    "chunks/ssr/node_modules_81224a._.js",
+    "chunks/ssr/src_687500._.js",
+    "chunks/ssr/models_User_aad49d.js",
+    "chunks/ssr/configs_db_92cc23.js",
+    "chunks/rsc/src_components_layouts_userPanelLayout.module_b5a149.css",
+    "chunks/ssr/src_components_modules_p-user_sidebar.module_b5a149.css",
+    "chunks/ssr/src_components_modules_p-user_topbar.module_b5a149.css",
+    "chunks/ssr/src_components_modules_p-user_modal.module_b5a149.css",
+    "chunks/ssr/src_styles_p-user_accountDetails.module_b5a149.css",
+    "chunks/rsc/[next]_internal_font_google_inter_92243eee.module_b5a149.css",
+    "chunks/rsc/src_app_globals.css",
+    "chunks/ssr/node_modules_aos_dist_aos.css",
+    "chunks/ssr/src_styles_ScrollToTop.module_b5a149.css",
+    "chunks/rsc/src_styles_404.module_b5a149.css"
+  ],
+  "source": "entry"
+});

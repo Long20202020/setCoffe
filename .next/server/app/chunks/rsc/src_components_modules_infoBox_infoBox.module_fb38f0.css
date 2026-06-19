@@ -1,0 +1,36 @@
+/* [project]/src/components/modules/infoBox/infoBox.module.css (css, css module, rsc) */
+.box__infoBox__391067e8 div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.box__infoBox__391067e8 {
+  border-radius: 5px;
+  padding: 1rem;
+  border: 2px solid #711d1c;
+  position: relative;
+  width: 270px;
+  margin: 0 auto;
+}
+.box_chart_icon__infoBox__391067e8 {
+  color: #711d1c;
+  font-size: 2.5rem;
+}
+.box__infoBox__391067e8 p::after {
+  content: "";
+  position: relative;
+  height: 2px;
+  top: 6px;
+  display: block;
+  background-color: #711d1c;
+  width: 80%;
+}
+.box__infoBox__391067e8 p::before {
+  content: "";
+  position: relative;
+  height: 2px;
+  top: 40px;
+  display: block;
+  background-color: #711d1c;
+  width: 58%;
+}

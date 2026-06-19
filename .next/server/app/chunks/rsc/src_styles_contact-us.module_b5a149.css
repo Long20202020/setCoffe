@@ -1,0 +1,30 @@
+/* chunk [output]/.next/server/app/chunks/rsc/src_styles_contact-us.module_b5a149.css */
+/* [project]/src/styles/contact-us.module.css (css, css module, rsc) */
+.maps__contact-us__f2f9ce77 {
+  display: flex;
+  gap: 25px;
+}
+.container__contact-us__f2f9ce77 {
+  color: black;
+  text-align: right;
+  max-width: 1222px;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-bottom: 4rem;
+  margin-left: auto;
+}
+.maps__contact-us__f2f9ce77 section {
+  width: 50%;
+}
+.contents__contact-us__f2f9ce77 {
+  display: flex;
+  gap: 35px;
+}
+.contents__contact-us__f2f9ce77 section, 
+.contents__contact-us__f2f9ce77 form {
+  width: 50%;
+  margin-top: 3rem;
+}
+

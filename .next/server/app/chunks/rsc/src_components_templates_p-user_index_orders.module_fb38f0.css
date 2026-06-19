@@ -1,0 +1,36 @@
+/* [project]/src/components/templates/p-user/index/orders.module.css (css, css module, rsc) */
+.content_details__orders__831ecf35 {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #711d1c;
+}
+.content__orders__831ecf35 {
+  background-color: #711d1c0f;
+  width: 50%;
+  color: rgb(0, 0, 0);
+  padding: 0px 15px;
+  border-radius: 5px;
+}
+.content_details__orders__831ecf35 a svg {
+  color: #711d1c;
+}
+.content_details__orders__831ecf35 a {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+.content__orders__831ecf35:nth-child(1) a:not(.content_details__orders__831ecf35 *) {
+  background: #711d1c !important;
+  border-right-color: white;
+  color: white;
+}
+.content__orders__831ecf35:nth-child(1) a div:nth-child(1) p:nth-child(2) {
+  color: #711d1c;
+}
+.empty__orders__831ecf35 {
+  text-align: center;
+  font-size: 2rem;
+  width: 100%;
+  padding: 9rem 0 12.5rem 0;
+}

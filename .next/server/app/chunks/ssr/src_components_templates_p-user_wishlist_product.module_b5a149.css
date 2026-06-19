@@ -1,0 +1,38 @@
+/* chunk [output]/.next/server/app/chunks/ssr/src_components_templates_p-user_wishlist_product.module_b5a149.css */
+/* [project]/src/components/templates/p-user/wishlist/product.module.css (css, css module, ssr) */
+.card__product__5e12797e {
+  text-align: center;
+  color: black;
+}
+.card__product__5e12797e svg {
+  margin-top: 0.4rem;
+  font-size: 1.3rem;
+  color: orange;
+}
+.card__product__5e12797e p {
+  font-size: 0.9rem;
+}
+.card__product__5e12797e span {
+  font-size: 0.9rem;
+}
+.card__product__5e12797e div {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+.delete_btn__product__5e12797e:hover {
+  opacity: 0.7;
+}
+.delete_btn__product__5e12797e {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  color: white;
+  transition: 1s all ease-in-out;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 1rem;
+  background-color: #711d1c;
+  border: 0;
+  outline: 0;
+}
+
