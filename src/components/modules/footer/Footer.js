@@ -8,26 +8,25 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <main className="container">
-        <section className={styles.descriptions}>
+        <section className={styles.descriptions} style={{color:"white"}}>
           <img src="/images/logo_light.png" alt="" />
           <p className={styles.descriptions_title}>
-            شرکت فنجان داغ خوارزمی، فروشگاه اینترنتی قهوه ست
+            شرکت فنجان داغ ، فروشگاه اینترنتی قهوه 
           </p>
 
           <div className={styles.description}>
             <FaRegHeart style={{ fontSize: "2rem" }} />
             <p>
-              تهران. شریف آباد . شهرک صنعتی خوارزمی فاز 2 . بلوار بهارستان.
-              خیابان ماگنولیا بلوک آ117
+              تهران. شهرک صنعتی شمس آباد
             </p>
           </div>
           <div className={styles.description}>
             <FaRegHeart />
-            <p>پیگیری سفارشات : 02188305827</p>
+            <p>پیگیری سفارشات : </p>
           </div>
           <div className={styles.description}>
             <FaRegHeart />
-            <p>support [at] set-coffee.com</p>
+            <p>support.set-coffe.com</p>
           </div>
         </section>
 
