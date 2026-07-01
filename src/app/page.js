@@ -10,7 +10,7 @@ import connectToDB from "@/configs/db";
 
 export default async function Home() {
   const user = await authUser();
-  await connectToDB();
+ 
   const latestProducts = await ProductModel.find({}).sort({ _id: -1 }).limit(8);
 
   return (
